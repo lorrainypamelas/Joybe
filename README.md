@@ -1,23 +1,27 @@
-# TÍTULO DO PROJETO
+# JoyBe
 
-`CURSO`
+SISTEMAS DA INFORMAÇÃO
 
-`DISCIPLINA`
+TRABALHO INTERDISCIPLINAR APLICAÇÕES PARA PROCESSOS DE NEGOCIOS 
 
-`SEMESTRE`
+3º SEMESTRE
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este trabalho aborda os desafios enfrentados pela JoyBe, uma empresa especializada na comercialização de semijoias voltadas para o público feminino, no contexto das vendas online, armazenamento de dados dos clientes e gerenciamento de vendas.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Arthur Antunes Gomes Pinto
+* Gabriel Medeiros de Aguiar
+* Karine Kessen Gilberti Felix
+* Lorrainy Pâmela Siqueira Ferreira
+* Maria Heloisa Aguiar Mendes
+* Pablo Henrique Marques Camargo
+
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Viviâne de Almeida Tôrres
 
 ## Instruções de utilização
 
